@@ -1,5 +1,8 @@
 # game-pong
 CLASSIC PING-PONG
+
+
+
 Hey there!
 This is my first ever game created with pygame module of Python
 The rules and controls are simple:
