@@ -21,3 +21,6 @@ The rules and controls are simple:
 
 
 5.Have fun
+
+
+6.Any help/advice for improving the game is appreciated.
